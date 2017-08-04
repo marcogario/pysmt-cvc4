@@ -1,0 +1,6 @@
+[submodule "multibuild"]
+	path = multibuild
+	url = https://github.com/matthew-brett/multibuild.git
+[submodule "CVC4"]
+	path = CVC4
+	url = https://github.com/CVC4/CVC4.git
